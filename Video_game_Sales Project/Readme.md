@@ -1,4 +1,5 @@
-# Video Game Sales Analysis   
+# Video Game Sales Analysis :
+
 
 **This Tableau dashboard analyzes video game sales data across different dimensions like time, genre, platform, and publisher. The key sections include:**
 ----
